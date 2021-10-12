@@ -13,8 +13,8 @@
 
 <!--- I can do mardown, figma, photoshop, illustrator, and ___. -->
 
-### My Portpolio
-- [Click to visit Portpolio Site]()
+### My Portfolio
+- [Click to visit Portfolio Site]()
 
 
 ### Toy Project within a Team 
@@ -61,3 +61,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!-- 
+꾸밀 때 참고한 사이트 
+
+
+https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+https://github.com/kyechan99/capsule-render#how-to-use
+https://github.com/Ileriayo/markdown-badges
+https://hits.seeyoufarm.com/
+
+
+ -->
