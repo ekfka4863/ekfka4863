@@ -36,9 +36,17 @@
 
 
 ### 🌱 I’m currently learning ... (or will be...)
-- react 
-- typescript
-- webpack
+- React 
+- Typescript
+- Webpack
+
+
+### 🌱 I put these fisrt ... (or trying to consider ...)
+- Clean, Reusable, and Understandable-for-Everyone Codes
+- Web Accessibility 
+- SEO
+- Cross Browsing
+- Communication and Co-operation 
 
 
 ✨ Thank you for visiting my github site! ✨
@@ -74,4 +82,6 @@ https://github.com/Ileriayo/markdown-badges
 https://hits.seeyoufarm.com/
 
 
+https://www.beusable.net/blog/?p=1802
+https://seulbinim.github.io/WSA/standards.html#%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%99%80-%EC%9B%B9%ED%91%9C%EC%A4%80
  -->
