@@ -32,7 +32,7 @@
 
 
 ### Contact Me 💬
-- [Email](ekfka4863@gmail.com)
+- <a href="mailto:ekfka4863@gmail.com" title="메일로 연락하기">email</a>
 
 
 ### 🌱 I’m currently learning ... (or will be...)
