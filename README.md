@@ -35,13 +35,13 @@
 - <a href="mailto:ekfka4863@gmail.com" title="메일로 연락하기">email</a>
 
 
-### 👩‍💻 I’m currently learning ... (or will be...) 
+### I’m currently learning ... (or will be...) 👀
 - React 
 - Typescript
 - Webpack
 
 
-### ☝️ I put these fisrt ... (or trying to consider ...) 👀 
+### I put these fisrt ... (or trying to consider ...) ☝️ 
 - Clean, Reusable, and Understandable-for-Everyone Codes
 - Web Accessibility 
 - SEO
